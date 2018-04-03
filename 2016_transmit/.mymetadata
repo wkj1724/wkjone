@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="2016_transmit"
+  id="myeclipse.1427092497253"
+  context-root="/2015_Sms"
+  j2ee-spec="5.0"
+  archive="2016_transmit.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

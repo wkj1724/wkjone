@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/org/services/YLSMSServer.java=GBK
+encoding//src/org/services/YLSMSThread.java=GBK
+encoding//src/org/utils/JdbcUtils.java=GBK
+encoding//src/org/utils/PropertiesUtil.java=GBK

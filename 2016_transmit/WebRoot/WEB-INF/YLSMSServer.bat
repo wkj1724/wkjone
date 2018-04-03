@@ -1,0 +1,1 @@
+java -classpath "classes;lib\commons-codec.jar;lib\commons-httpclient-3.1.jar;lib\commons-logging-1.1.jar;lib\dom4j-1.6.1.jar;lib\EcpOpen-api-v2.1.0.jar;lib\log4j-1.2.13.jar;lib\ojdbc14.jar;lib\xfire-core-1.2.6.jar;lib\axis.jar;lib\javaee.jar;lib\commons-discovery-0.2.jar;lib\wsdl4j-1.6.3.jar;lib\mail.jar;lib\activation.jar;"  org.services.YLSMSServer
