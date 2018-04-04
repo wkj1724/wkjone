@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="con" path="melibrary.com.genuitec.eclipse.j2eedt.core.MYECLIPSE_JAVAEE_5_CONTAINER"/>
 	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/EcpOpen-api-v2.1.0.jar"/>
 	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/commons-httpclient-3.1.jar"/>
@@ -10,11 +10,7 @@
 	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/commons-logging-1.1.jar"/>
 	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/commons-codec.jar"/>
 	<classpathentry kind="lib" path="WebRoot/WEB-INF/lib/ojdbc14.jar"/>
-	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
-	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
-	<classpathentry kind="lib" path="/ITRA_webapps_ah/WebRoot/WEB-INF/lib/xfire-core-1.2.6.jar"/>
-	<classpathentry kind="lib" path="/ITRA_webapps_ah/WebRoot/WEB-INF/lib/xmlbeans-2.3.0.jar"/>
-	<classpathentry kind="lib" path="/ITRA_webapps_ah/WebRoot/WEB-INF/lib/XmlSchema-1.4.7.jar"/>
-	<classpathentry kind="lib" path="/ITRA_webservice_ah/WebRoot/WEB-INF/lib/axis.jar" sourcepath="D:/.m2/org/apache/axis/axis/1.4/axis-1.4-sources.jar"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
 	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
 </classpath>
