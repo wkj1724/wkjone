@@ -14,7 +14,7 @@ public class ExpressDelivery {
 	private static String prodCode = "move_car";
 	private static String APP_SECRET = "30F2DCDA200D7111625A21D32B3CC439";
 	private static String SERVER_URL = "http://116.228.55.190:50022/bop/service";  //≤‚ ‘µÿ÷∑
-//	private static String SERVER_URL = "http://116.228.55.172:9088/bop/service";111
+//	private static String SERVER_URL = "http://116.228.55.172:9088/bop/service";111111
 	
 	
 	public void send(Order order){
